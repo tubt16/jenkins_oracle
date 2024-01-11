@@ -1,0 +1,1 @@
+DELETE from infomation WHERE name = 'tu2';

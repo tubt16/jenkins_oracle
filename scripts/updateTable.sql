@@ -1,0 +1,1 @@
+UPDATE infomation SET locate = 'DA', color = 'pink' WHERE name = 'tu2';

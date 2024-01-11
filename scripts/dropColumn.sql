@@ -1,0 +1,1 @@
+ALTER table infomation DROP column color;
